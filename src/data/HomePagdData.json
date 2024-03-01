@@ -1,0 +1,244 @@
+{
+  "hero": {
+    "imgUrl": "/images/homeAadarshTiwari.png",
+    "name": "Aadarsh Tiwari",
+    "heading": "Hay! I’m Aadarsh",
+    "typingText": ["I'm a Engineer", 1500, "I'm a Developer", 1500, "I'm a Youtuber", 1500],
+    "description": "I'm Experienced .Net full-stack Developer. My goal is to build a fast, flexible and responsive website that clearly communicates with visitors. I have done MCA, I am a Youtuber also. I have experience in the software field as a software engineer.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/aadarshtiwari"
+    },
+    {
+      "icon": "fa-brands:github",
+      "iconBgClass": "github",
+      "href": "https://github.com/aadarsh0001"
+    },
+    { "icon": "fa-brands:youtube", 
+      "iconBgClass": "youtube", 
+      "href": "https://youtube.com/@b.updated" 
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/Update4All.svg",
+      "alt": "Update4All"
+    },
+    {
+      "src": "/images/B.Updated.svg",
+      "alt": "B.Updated"
+    },
+    {
+      "src": "/images/Update4All.svg",
+      "alt": "Update4All"
+    },
+    {
+      "src": "/images/B.Updated.svg",
+      "alt": "B.Updated"
+    },
+    {
+      "src": "/images/Update4All.svg",
+      "alt": "Update4All"
+    },
+    {
+      "src": "/images/B.Updated.svg",
+      "alt": "B.Updated"
+    },
+    {
+      "src": "/images/Update4All.svg",
+      "alt": "Update4All"
+    },
+    {
+      "src": "/images/B.Updated.svg",
+      "alt": "B.Updated"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/AadarshTiwariforR.jpg",
+    "miniTitle": "About Us",
+    "title": "I AM AVAILABLE FOR <span>Cross platform applications and Websites</span> PROJECTS",
+    "description": "I am a .Net full-stack Developer with a passion for learning and can work with estimation of future tasks and client feedback. I am highly-motivated, result oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully aware of the latest Front-end Development Tools. I have a firm knowledge of  Blazor, XAML, WPF, C#, DART, SQL, WCF, LINQ, MVVM, .NET Framework, MAUI, HTML 5, CSS 3, JavaScript, Bootstrap, API, JSON and possess a good knowledge of computer software packages (frameworks and tools) that are used in today’s technology.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 280
+      },
+      {
+        "title": "Years Experience",
+        "number": 3
+      },
+      {
+        "title": "Awward Winning",
+        "number": 49
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/retail_store_app.jpg",
+        "title": "Retail Management System",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Retail Store Back Office Application",
+          "description": "Our application, developed using C#, WPF, and MVVM architecture, empowers retailers to efficiently manage supplier details, inventory, sales, and more. Seamlessly handle daily store operations and gain valuable insights with our intuitive dashboard.\nHope, you'll love it",
+          "type": "Application",
+          "langages": "c#, WPF, SQL, .NET Framework",
+          "platform": ".NET",
+          "country": "India",
+          "url": "https://github.com/aadarsh0001/RetailStoreBackOfficeApplication/"
+        }
+      },
+      {
+        "thumbUrl": "/images/sales_projected.jpg",
+        "title": "Sales Projection",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Sales Projection for a food store",
+          "description": "Explore our Sales and Guest Projection project repository, by using ML.NET, C#, MVVM, Microsoft SQL Server, and WPF. Predict future guest arrivals using historical data, enabling precise projections for upcoming days. Leverage past guest information for accurate forecasts, while also applying machine learning to project future sales with confidence.",
+          "type": "Application",
+          "langages": "ML.NET, C#, WPF, SQL",
+          "platform": ".NET",
+          "country": "India",
+          "url": "https://github.com/aadarsh0001/ColorPicker/"
+        }
+      },
+      {
+        "thumbUrl": "/images/color_picker.jpg",
+        "title": "Color Picker",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Color Picker mobile application",
+          "description": "ColorPicker is a dynamic cross-platform mobile application built using MAUI (.NET Multi-platform App UI) technology. With ColorPicker, you can effortlessly generate random colors or customize colors using RGB sliders, obtaining the corresponding hexadecimal codes. It simplifies the process of exploring and selecting colors for your projects.",
+          "type": "Application",
+          "langages": ".NET Framework, MAUI, HTML, CSS, C#",
+          "platform": ".NET",
+          "country": "Bharat (India)",
+          "url": "https://github.com/aadarsh0001/ColorPicker/"
+        }
+      },
+      {
+        "thumbUrl": "/images/SplitBillApp.jpg",
+        "title": "Split Bill Application",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Split Bill mobile application",
+          "description": "SplitBillApp is a cross-platform mobile application developed using MAUI (.NET Multi-platform App UI) technology. With SplitBillApp, you can easily split bills among a group of people by providing the amount, the number of persons, and the desired tip percentage. Whether you're dining out with friends, organizing an event, or sharing expenses, this app simplifies the process of bill splitting.",
+          "type": "Application",
+          "langages": ".NET Framework, MAUI, HTML, CSS, C#",
+          "platform": ".NET",
+          "country": "India",
+          "url": "https://github.com/aadarsh0001/SplitBillApp"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Development & Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/application.jpg",
+        "title": "Application Development",
+        "subTitle": "Delivering innovative application solutions using the robust framework of .NET.",
+        "icon": "bi:code-square",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/website.jpg",
+        "title": "Website Development",
+        "subTitle": "Crafting dynamic and responsive websites with the power of ReactJS and .NET Blazor.",
+        "icon": "bi:filetype-html",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/images/database.jpg",
+        "title": "Database Management",
+        "subTitle": "Efficiently managing and optimizing databases with the reliability of SQL (Structured Query Language).",
+        "icon": "bi:filetype-sql",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/seo.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Elevating online visibility and driving growth through strategic SEO marketing initiatives.",
+        "icon": "bi:speedometer2",
+        "ratings": 4
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Software Engineer",
+        "company": "Sopra Steria | Noida, India",
+        "duration": "JAN 2022 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Sopra Steria India, a leading digital transformation company, harnesses technology to drive innovation and empower businesses worldwide. With a rich legacy of excellence and a global footprint, Sopra Steria India delivers cutting-edge solutions across industries, from banking and healthcare to manufacturing and retail. Committed to delivering value-driven outcomes, Sopra Steria India combines deep industry expertise with transformative digital capabilities to shape the future of enterprises ."
+      },
+      {
+        "designation": "Associate",
+        "company": "Tech Mahindra | Noida, India",
+        "duration": "Nov 2020 - Jan 2022",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Tech Mahindra is a global digital transformation and consulting company that enables enterprises to navigate and thrive in the digital age. With a focus on innovation, collaboration, and sustainability, Tech Mahindra delivers cutting-edge solutions across industries, including telecommunications, healthcare, manufacturing, and banking. Leveraging advanced technologies such as artificial intelligence, blockchain, and IoT, Tech Mahindra helps clients reimagine their business models, enhance customer experiences, and drive operational excellence ."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>1,000+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Aadi's expertise in application development is truly remarkable. His attention to detail and problem-solving skills ensure that every project is executed flawlessly.",
+        "avatarImg": "/images/roshan.jpg",
+        "avatarName": "Roshan Kumar",
+        "avatarCompany": "Excelsior Softwares"
+      },
+      {
+        "reviewText": "I've had the pleasure of working with Aadi on multiple website development projects. His creativity and technical proficiency always result in stunning and user-friendly websites.",
+        "avatarImg": "/images/ashish.jpg",
+        "avatarName": "Ashish Garg",
+        "avatarCompany": "Socialkyte"
+      },
+      {
+        "reviewText": "Aadi's proficiency in database management is unmatched. His ability to organize and optimize data ensures smooth operations and efficient workflows.",
+        "avatarImg": "/images/chaitanya.jpg",
+        "avatarName": "Chaitanya Ajabe",
+        "avatarCompany": "Sopra Steria"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/profile-pic (3).png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "aadarsh00001@gmail.com" },
+      { "title": "write an e-mail", "tel": "+91 850 685 1648" }
+    ]
+  }
+}
