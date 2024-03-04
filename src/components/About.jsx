@@ -67,8 +67,9 @@ export default function About({ data }) {
                 ))}
               </div>
               <div className="btn-bar">
-                <ScrollLink
-                  to={btnUrl}
+                <a
+                  href={btnUrl}
+                  download="Aadarsh_Resume.pdf"
                   spy={true}
                   smooth={true}
                   offset={-80}
@@ -77,9 +78,9 @@ export default function About({ data }) {
                 >
                   <span>{btnText}</span>{' '}
                   <i>
-                    <Icon icon="bi:arrow-right" />
+                    <Icon icon="bi:arrow-down-circle" />
                   </i>
-                </ScrollLink>
+                </a>
               </div>
             </div>
           </div>
