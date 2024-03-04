@@ -77,8 +77,8 @@
         "number": 49
       }
     ],
-    "btnText": "Get in touch",
-    "btnUrl": "contactus"
+    "btnText": "Download CV",
+    "btnUrl": "/docs/something.pdf"
   },
   "projects": {
     "sectionHeading": {
